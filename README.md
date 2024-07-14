@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zain-ul-Abdin-Arshad student of BSCS.
-- 👀 I’m interested in technologies, Artificial Intelligence, Machine Learning, Full Stack Web Development, Data Administration with SQL and MYSQL,Cyber Security and Ethical etc.
+- 👀 I’m interested in technologies, Artificial Intelligence, Machine Learning, Full Stack Web Development, Data Administration with Backend such as SQL and MYSQL.
 - 🌱 I’m currently learning Artificial Intelligence and Machine learning with neural networks and Image Processing.
 - 💞️ I’m looking for an Internship in Lahore, Pakistan.
 - 📫 Contact with e on mian.zain.mughall@gmail.com
